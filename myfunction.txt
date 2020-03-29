@@ -1,5 +1,7 @@
-onefunction - I have added a very important function here
+onefunction - I have added a very very important function here
 Twofunction - I have added a very important function here
 Trheefunction - I have added unnecessary function.
 
 added a chart function in our branch
+
+added a code for doing logout
